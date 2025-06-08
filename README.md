@@ -19,6 +19,10 @@ This is a web-based Leave Management System built using PHP, MySQL, HTML, CSS, a
 ➡️Frontend: HTML, CSS, JavaScript
 ➡️Local Server: XAMPP
 
+🧪 Testing
+✅ Selenium tests are included to verify login functionality.
+✅ Test file: selenium_tests/test_login.py
+
 📌 Installation Guide
 
 1️⃣ Clone the Repository:
