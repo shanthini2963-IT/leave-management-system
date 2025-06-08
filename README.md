@@ -23,7 +23,7 @@ This is a web-based Leave Management System built using PHP, MySQL, HTML, CSS, a
 
 1️⃣ Clone the Repository:
 ----------------------
-git clone https://github.com/your-username/leave-management-system.git
+git clone https://github.com/shanthini29636-IT/leave-management-system.git
 
 2️⃣ Move to Project Directory:
 -----------------------
